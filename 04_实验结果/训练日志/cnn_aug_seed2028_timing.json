@@ -1,0 +1,7 @@
+{
+  "variant": "B",
+  "seed": 2028,
+  "training_seconds": 22.689452699996764,
+  "epochs": 20,
+  "history_file": "results\\histories\\cnn_aug_seed2028.json"
+}

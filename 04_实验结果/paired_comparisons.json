@@ -1,0 +1,35 @@
+{
+  "B": {
+    "gain_n": 238,
+    "loss_n": 327,
+    "delta_accuracy": -0.008900000000000019,
+    "bootstrap_ci95": [
+      -0.0135,
+      -0.0044
+    ],
+    "bootstrap_repeats": 10000,
+    "mcnemar_exact_p": 0.00020792555529620827
+  },
+  "C": {
+    "gain_n": 146,
+    "loss_n": 111,
+    "delta_accuracy": 0.0034999999999999476,
+    "bootstrap_ci95": [
+      0.0003,
+      0.0067
+    ],
+    "bootstrap_repeats": 10000,
+    "mcnemar_exact_p": 0.03373037903465604
+  },
+  "D": {
+    "gain_n": 252,
+    "loss_n": 337,
+    "delta_accuracy": -0.008500000000000063,
+    "bootstrap_ci95": [
+      -0.0133,
+      -0.0038
+    ],
+    "bootstrap_repeats": 10000,
+    "mcnemar_exact_p": 0.0005271326621853549
+  }
+}

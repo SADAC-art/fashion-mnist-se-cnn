@@ -1,0 +1,75 @@
+{
+  "T-shirt/top": {
+    "precision": 0.9048152295632699,
+    "recall": 0.808,
+    "f1-score": 0.8536714210248283,
+    "support": 1000.0
+  },
+  "Trouser": {
+    "precision": 0.985985985985986,
+    "recall": 0.985,
+    "f1-score": 0.9854927463731866,
+    "support": 1000.0
+  },
+  "Pullover": {
+    "precision": 0.8918918918918919,
+    "recall": 0.858,
+    "f1-score": 0.8746177370030581,
+    "support": 1000.0
+  },
+  "Dress": {
+    "precision": 0.8990291262135922,
+    "recall": 0.926,
+    "f1-score": 0.9123152709359605,
+    "support": 1000.0
+  },
+  "Coat": {
+    "precision": 0.8866943866943867,
+    "recall": 0.853,
+    "f1-score": 0.8695208970438328,
+    "support": 1000.0
+  },
+  "Sandal": {
+    "precision": 0.9810756972111554,
+    "recall": 0.985,
+    "f1-score": 0.9830339321357285,
+    "support": 1000.0
+  },
+  "Shirt": {
+    "precision": 0.700609225413403,
+    "recall": 0.805,
+    "f1-score": 0.749185667752443,
+    "support": 1000.0
+  },
+  "Sneaker": {
+    "precision": 0.9476236663433559,
+    "recall": 0.977,
+    "f1-score": 0.9620876415558838,
+    "support": 1000.0
+  },
+  "Bag": {
+    "precision": 0.9830339321357285,
+    "recall": 0.985,
+    "f1-score": 0.984015984015984,
+    "support": 1000.0
+  },
+  "Ankle boot": {
+    "precision": 0.984504132231405,
+    "recall": 0.953,
+    "f1-score": 0.9684959349593496,
+    "support": 1000.0
+  },
+  "accuracy": 0.9135,
+  "macro avg": {
+    "precision": 0.9165263273684175,
+    "recall": 0.9135,
+    "f1-score": 0.9142437232800257,
+    "support": 10000.0
+  },
+  "weighted avg": {
+    "precision": 0.9165263273684175,
+    "recall": 0.9135,
+    "f1-score": 0.9142437232800256,
+    "support": 10000.0
+  }
+}

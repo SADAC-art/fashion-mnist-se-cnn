@@ -1,0 +1,34 @@
+{
+  "accuracy": 0.9243,
+  "precision_macro": 0.9241911709938753,
+  "recall_macro": 0.9243,
+  "f1_macro": 0.9242116417849064,
+  "variant": "C",
+  "name": "cnn_se",
+  "seed": 2027,
+  "best_epoch": 19,
+  "best_val_accuracy": 0.9338,
+  "parameters": 423018,
+  "parameter_bytes_fp32": 1692072,
+  "checkpoint_bytes": 1699725,
+  "macs_conv_linear": 4242432,
+  "checkpoint_sha256": "1ac5d18093a952eaf7275b8eec846cda985e95c51d95f0e61dc7625097bd47df",
+  "device": "cuda",
+  "training_seconds": 27.733710799999244,
+  "latency_batch1_ms_median": 0.631573999999091,
+  "latency_batch1_ms_all": [
+    0.6289640000613872,
+    0.6339570000272943,
+    0.646268999989843,
+    0.631573999999091,
+    0.6254320000152802
+  ],
+  "latency_batch256_ms_median": 1.658404999980121,
+  "latency_batch256_ms_all": [
+    1.658404999980121,
+    1.6375239999615587,
+    1.6446049999649404,
+    1.6825960000278428,
+    1.770230000038282
+  ]
+}

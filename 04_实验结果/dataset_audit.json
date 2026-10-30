@@ -1,0 +1,72 @@
+{
+  "split_seed": 314159,
+  "train_n": 50000,
+  "val_n": 10000,
+  "test_n": 10000,
+  "train_per_class": [
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000
+  ],
+  "val_per_class": [
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000
+  ],
+  "test_per_class": [
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000
+  ],
+  "mean": 0.2859028087234894,
+  "std": 0.3529444092570185,
+  "normalization_source": "training subset only",
+  "files": [
+    {
+      "file": "train-images-idx3-ubyte.gz",
+      "md5": "8d4fb7e6c68d591d4c3dfef9ec88bf0d",
+      "sha256": "3aede38d61863908ad78613f6a32ed271626dd12800ba2636569512369268a84",
+      "bytes": 26421880
+    },
+    {
+      "file": "train-labels-idx1-ubyte.gz",
+      "md5": "25c81989df183df01b3e8a0aad5dffbe",
+      "sha256": "a04f17134ac03560a47e3764e11b92fc97de4d1bfaf8ba1a3aa29af54cc90845",
+      "bytes": 29515
+    },
+    {
+      "file": "t10k-images-idx3-ubyte.gz",
+      "md5": "bef4ecab320f06d8554ea6380940ec79",
+      "sha256": "346e55b948d973a97e58d2351dde16a484bd415d4595297633bb08f03db6a073",
+      "bytes": 4422102
+    },
+    {
+      "file": "t10k-labels-idx1-ubyte.gz",
+      "md5": "bb300cfdad3c16e7a12a480ee83cd310",
+      "sha256": "67da17c76eaffca5446c3361aaab5c3cd6d1c2608764d35dfb1850b086bf8dd5",
+      "bytes": 5148
+    }
+  ],
+  "split_sha256": "0b49a5935abfb4ced71b80b9651fa29f79e0dd7b54bf34c8c3b3b42d17cba2f3"
+}
