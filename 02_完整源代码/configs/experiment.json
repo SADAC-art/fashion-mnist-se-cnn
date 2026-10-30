@@ -1,0 +1,13 @@
+{
+  "epochs": 20,
+  "batch_size": 256,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "reduction": 8,
+  "split_seed": 314159,
+  "seeds": [2026, 2027, 2028],
+  "augmentation": {"rotation_degrees": 8, "translation_pixels": 2, "interpolation": "bilinear", "fill": 0},
+  "selection": "max validation accuracy; ties use min validation loss",
+  "precision": "float32",
+  "primary_seed": 2026
+}
